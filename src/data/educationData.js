@@ -2,14 +2,14 @@ export const educationData = [
     {
         id: 1,
         institution: 'Valley View School',
-        course: 'Secondary Education',
+        course: 'High School Education',
         startYear: '2015',
         endYear: '2017'
     },
     {
         id: 2,
         institution: 'Kendriya Vidyalaya',
-        course: 'Higher Secondary Education',
+        course: 'Senior Secondary Education',
         startYear: '2017',
         endYear: '2019'
     },
