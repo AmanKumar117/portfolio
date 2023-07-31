@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0e52d86e.css",
-    "main.js": "/portfolio/static/js/main.3398e3c1.js",
+    "main.js": "/portfolio/static/js/main.8102fafb.js",
     "static/js/787.d0fc6f61.chunk.js": "/portfolio/static/js/787.d0fc6f61.chunk.js",
-    "static/media/Aman.jpg": "/portfolio/static/media/Aman.6210cdca9e75b2eb8595.jpg",
     "static/media/Resume2.0 (2).pdf": "/portfolio/static/media/Resume2.0 (2).c075c6b3f5ed257ee086.pdf",
     "static/media/placeholder.png": "/portfolio/static/media/placeholder.789e9a98f5fa1d026e34.png",
     "static/media/five.svg": "/portfolio/static/media/five.89b924ebc79f37d920813b8e786786ba.svg",
+    "static/media/Aman.jpg": "/portfolio/static/media/Aman.4ffc426348f9d03d84be.jpg",
     "static/media/two.svg": "/portfolio/static/media/two.721a06723367c73fc2cee44b09f50c67.svg",
     "static/media/BestermindRegular.ttf": "/portfolio/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/one.svg": "/portfolio/static/media/one.a3146128c9b6ecbd1ffa523e1f3f734d.svg",
@@ -40,11 +40,11 @@
     "static/media/html.svg": "/portfolio/static/media/html.6a342d61e4fe710cf3e5c05b65b0ac87.svg",
     "static/media/materialui.svg": "/portfolio/static/media/materialui.518da2c04cdbcf8b4ca3e2ac554c38e9.svg",
     "main.0e52d86e.css.map": "/portfolio/static/css/main.0e52d86e.css.map",
-    "main.3398e3c1.js.map": "/portfolio/static/js/main.3398e3c1.js.map",
+    "main.8102fafb.js.map": "/portfolio/static/js/main.8102fafb.js.map",
     "787.d0fc6f61.chunk.js.map": "/portfolio/static/js/787.d0fc6f61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e52d86e.css",
-    "static/js/main.3398e3c1.js"
+    "static/js/main.8102fafb.js"
   ]
 }
